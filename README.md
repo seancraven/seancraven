@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, I'm Sean, 
+
+I am currently an MSc Data Science and Machine Learning Masters Student at UCL. My current dissertation on Exploiting Symmetry in Reinforcement Learning is under the supervision of Prof. Caswell Barry [https://barry-lab.com/](url) 
+
+Currently, I like writing RL agents to play games and am enjoying my journey to learn Rust.
+
 
 <!--
 **seancraven/seancraven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
