@@ -1,6 +1,8 @@
 Hi, I'm Sean, 
 
-I am a machine learning researcher at Advai! 
+I'm a Lead Engineer at Advai. In my spare time I like to write Rust.
+
+Please check out my website: [Programtype](https://programtype.com) 
 
 
 <!--
